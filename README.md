@@ -38,11 +38,30 @@ _All built while practicing concepts from my web development course!_
 
 ---
 
-## 📸 Projects Highlight
+## 📁 Projects 
 
-### 🧭 Responsive Navbar
-
-A basic responsive navigation bar using **HTML and CSS**. Built to learn layout structure, media queries, and responsive design.
+### 📱 Navigation Bar  
+Responsive navbar with hover effects, built to understand layout and media queries. 
 
 **Screenshot:**  
 ![Navbar Screenshot](https://github.com/user-attachments/assets/9d9e2828-7f2c-4ea7-b456-df8099fa3e81)
+
+
+---
+
+
+### 📘 Facebook-Style Login Page  
+A clean, centered login UI inspired by Facebook using HTML & CSS.  
+
+
+<img width="1437" height="612" alt="Screenshot 2025-07-19 183233" src="https://github.com/user-attachments/assets/2571b67f-7d51-4987-aff1-c613824048f5" />
+---
+
+### 🌐 Coming Soon Page  
+A responsive landing page created using HTML and CSS
+
+
+<img width="1689" height="855" alt="Screenshot 2025-07-19 174947" src="https://github.com/user-attachments/assets/99a7355c-d497-426a-9248-cffac7f767e8" />
+
+
+
