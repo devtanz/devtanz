@@ -26,7 +26,8 @@ _All built while practicing concepts from my web development course!_
 
 - HTML  
 - CSS  
-- Java (Basic to Intermediate)  
+- Python
+  
 
 ---
 
