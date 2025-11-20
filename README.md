@@ -27,6 +27,7 @@ _All built while practicing concepts from my web development course!_
 - HTML  
 - CSS  
 - Python
+- Javascript
   
 
 ---
